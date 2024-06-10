@@ -1,13 +1,13 @@
 # VanGO
 
-## (VanJS)[https://github.com/vanjs-org/van] but in golang.
+## [VanJS](https://github.com/vanjs-org/van) but in golang.
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtHIZV8z8Devr_vFmzk8EoIkX8g3C4pgoeLg&s" height="150px"/>
 
 ## Installation
 ```bash
-go get github.com/wingravity/van-go
+go get github.com/danielberigoi/van-go
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ import (
 	"log"
 	"net/http"
 
-	. "github.com/wingravity/van-go"
+	. "github.com/danielberigoi/van-go"
 )
 
 func main() {

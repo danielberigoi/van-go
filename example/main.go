@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	. "github.com/wingravity/van-go"
+	. "github.com/danielberigoi/van-go"
 )
 
 func pageIndex() string {
