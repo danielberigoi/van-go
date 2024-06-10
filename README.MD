@@ -1,4 +1,4 @@
-# VanGO
+# VanGo
 
 ## [VanJS](https://github.com/vanjs-org/van) but in golang.
 
