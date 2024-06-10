@@ -23,8 +23,10 @@ import (
 func main() {
     http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
         fmt.Fprint(w, Html()(
-            Head()(),
-            Body()(
+            Head()(
+                Title()("Hello Van Go!"),
+            ),
+            Body(Att{"class": "container"})(
                 H1()("Hello, World!"),
             ),
         ))
