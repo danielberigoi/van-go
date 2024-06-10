@@ -1,9 +1,6 @@
-# VanGO
+![van-go](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtHIZV8z8Devr_vFmzk8EoIkX8g3C4pgoeLg&s)
 
 ## [VanJS](https://github.com/vanjs-org/van) but in golang.
-
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtHIZV8z8Devr_vFmzk8EoIkX8g3C4pgoeLg&s" height="150px"/>
 
 ## Installation
 ```bash
