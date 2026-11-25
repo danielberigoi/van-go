@@ -2,7 +2,7 @@
 
 *Self-Portrait with Ice Cream* — Vincent van Cone, 2024
 
-## Lost an ear. Gained a scoop.
+## HTML, best served cold.
 
 [VanJS](https://github.com/vanjs-org/van) but in golang. HTML is frozen on the server in Go, then melted in the browser into something interactive. No Go dependencies, no JS build step.
 
@@ -88,3 +88,5 @@ After inserting server-rendered HTML (for example with htmx), call `cone.hydrate
 - There is no list rendering yet.
 
 See [`example/`](example) for a runnable demo (`go run ./example`).
+
+Van Gogh sold one painting in his lifetime. Star this repo and beat him.
