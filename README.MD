@@ -90,3 +90,7 @@ After inserting server-rendered HTML (for example with htmx), call `cone.hydrate
 See [`example/`](example) for a runnable demo (`go run ./example`).
 
 Van Gogh sold one painting in his lifetime. Star this repo and beat him.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
