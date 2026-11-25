@@ -1,6 +1,6 @@
 ![Self-Portrait with Ice Cream](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtHIZV8z8Devr_vFmzk8EoIkX8g3C4pgoeLg&s)
 
-*Self-Portrait with Ice Cream* — Vincent van Cone, 2024
+Vincent van Cone, *Self-Portrait with Ice Cream*, 2024. Go on canvas.
 
 ## HTML, best served cold.
 
